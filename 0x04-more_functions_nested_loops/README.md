@@ -11,9 +11,8 @@ All of the following files are programs written in C:
 | `5-more_numbers.c` | Prints 10 times the numbers, from `0` to `14` |
 | `6-print_line.c` | Draws a straight line in the terminal |
 | `7-print_diagonal.c` | Draws a diagonal line in the terminal |
-| `8-print_square.c` | Prints a sqaure |
+| `8-print_square.c` | Prints a square |
 | `9-fizz_buzz.c` | Prints Fizz-Buzz test |
 | `10-print_triangle.c` | Prints a triangle |
 | `100-prime_factor.c` | Finds and prints the largest prime factor of the number `612852475143` |
 | `101-print_number.c` | Prints an integer |
-
