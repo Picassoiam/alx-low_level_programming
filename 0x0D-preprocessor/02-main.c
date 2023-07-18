@@ -1,11 +1,12 @@
 #include <stdio.h>
 
-int main() {
-  /* Get the name of the file.*/
-  char *cc = __FILE__;
+/* Get the name of the file.*/
+int main (void)
+{
+char *cc = __FILE__;
 
-  /* Print the name of the file.*/
-  printf("%s\n", cc);
+/* Print the name of the file.*/
+printf("%s\n", cc);
 
-  return 0;
+return 0;
 }
