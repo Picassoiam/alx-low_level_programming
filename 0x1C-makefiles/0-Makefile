@@ -1,2 +1,7 @@
+# Define the compiler
+CC = gcc
+# Define the target (executable name)
+TARGET = school
+
 all: main.c school.c
 		gcc main.c school.c -o school
